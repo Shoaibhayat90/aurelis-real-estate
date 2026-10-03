@@ -1,2 +1,15 @@
-# aurelis-real-estate
-Aurelis luxury Gulf real estate website concept (fictional brand)
+# Aurelis — Luxury Gulf Real Estate Website Concept
+
+A luxury Gulf real-estate developer website concept for the fictional brand "Aurelis" — a complete single-page site.
+
+*Design concept: fictional brand, built by Rani AI to showcase web design.*
+
+## Live demo
+
+https://shoaibhayat90.github.io/aurelis-real-estate/
+
+## About
+
+Designed and built as a sample project by [Shoaib Hayat](https://github.com/Shoaibhayat90), founder of [Rani AI Services](https://raniaiservices.com) — high-performing websites, practical AI & automation for small businesses.
+
+Want a website like this for your business? [Book a free strategy call](https://raniaiservices.com/book-a-call).
